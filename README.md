@@ -40,9 +40,9 @@
 
 ### 🔹 **For Windows Users**
 1. Install `windows-curses`:  
-   ```bash
-   pip install windows-curses
-   ```
+```bash
+pip install windows-curses
+```
 2. Clone the repository:
 ```bash
 git clone https://github.com/sayantichy/Matrix-Storm-Digital-Rain.git
@@ -64,7 +64,8 @@ Navigate into the folder:
 ```bash
 cd Matrix-Storm-Digital-Rain
 ```
-🎬 Running the Program
+---
+## 🎬 Running the Program
 To run Version 1 (Basic Matrix Rain):
 ```bash
 python matrix_basic.py
@@ -81,11 +82,11 @@ python matrix_storm.py
 
 ## 🖥️ Demo
 🔗
-
+---
 ## 🚀 Future Improvements
-🔹 Add sound effects for thunder 🎵
-🔹 Make raindrops splash on impact 💦
-🔹 Add lightning reflection on water ⚡🌊
-
+- 🔹 Add sound effects for thunder 🎵
+- 🔹 Make raindrops splash on impact 💦
+- 🔹 Add lightning reflection on water ⚡🌊
+---
 ## 🎯 Contributing
 Feel free to fork this repository and submit a pull request if you have any cool improvements! 😎
